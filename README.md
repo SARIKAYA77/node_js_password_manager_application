@@ -1,2 +1,2 @@
 
-# node js basics ve password manager application
+# node js basics and password manager application
